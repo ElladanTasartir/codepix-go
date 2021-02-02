@@ -21,7 +21,7 @@ type PixKey struct {
 	Kind      string   `json:"kind" valid:"notnull"`
 	Key       string   `json:"key" valid:"notnull"`
 	AccountID string   `json:"account_id" valid:"notnull"`
-	Account   *Account `"valid:"-"`
+	Account   *Account `valid:"-"`
 	Status    string   `json:"status" valid:"notnull"`
 }
 
