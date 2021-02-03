@@ -8,7 +8,8 @@ require (
 	github.com/joho/godotenv v1.3.0
 	github.com/lib/pq v1.9.0
 	github.com/satori/go.uuid v1.2.0
+	google.golang.org/grpc v1.35.0
 	gopkg.in/check.v1 v1.0.0-20201130134442-10cb98267c6c // indirect
 	gorm.io/driver/sqlite v1.1.4
-	gorm.io/gorm v1.20.12
+	gorm.io/gorm v1.20.12 // indirect
 )
