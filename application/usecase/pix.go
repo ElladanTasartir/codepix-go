@@ -3,7 +3,7 @@ package usecase
 import (
 	"errors"
 
-	"github.com/ElladanTasartir/codepix-go/domain/model"
+	"github.com/ElladanTasartir/codepixgo/domain/model"
 )
 
 type PixUseCase struct {
