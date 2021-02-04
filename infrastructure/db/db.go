@@ -6,7 +6,7 @@ import (
 	"path/filepath"
 	"runtime"
 
-	"github.com/ElladanTasartir/codepix-go/domain/model"
+	"github.com/ElladanTasartir/codepixgo/domain/model"
 	"github.com/jinzhu/gorm"
 	"github.com/joho/godotenv"
 	_ "github.com/lib/pq"
